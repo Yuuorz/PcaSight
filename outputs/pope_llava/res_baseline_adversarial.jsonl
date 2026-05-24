@@ -1,0 +1,996 @@
+{"question_id": 1, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mBzn96Dv5QpKtvVPDwoWs5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 2, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "Wy2FDir3wcqfYwS5qkdu8R", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 3, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3X4NsXSNYwSVf6Xon88WpB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 4, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "79zZuSWdKzujCgpuS8298q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 5, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fTAFdjcTM9MHEkNWBKBdij", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 6, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "mXRsDwFrxwetceMNUoDD5D", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 7, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aGFiFFo5UQc9wjopZRx8aU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 8, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "AUwk58ocJyKs7iphfH7C9Z", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 9, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "b6Q8MZ4vyoSwC9HJgj85SN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 10, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "VqSJkSRnuhghxVmy6MjCgk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 11, "prompt": "Is there an umbrella in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "XNZetGVVbGEiitEnaedFiy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 12, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "hpqfRdTruTCds53GZKqfaA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 13, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jgFUj4Vi5iax8dfDEVbE4d", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 14, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "Cs7FQKDJTv2FPdgQ7kNvqQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 15, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Gv4ZfFERY4zbP8yVHnk7cD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 16, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BdtuLhkLtRZy4UywLCuZDj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 17, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "GKJ9GBztEHTVKYhc9n3nVe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 18, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "btqDje8UQLpAidF5fXchmj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 19, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gLGCgMacvDjgzowSKRfHtB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 20, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "SZ8jdgXiEeaZRsJWcccEDc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 21, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "No", "answer_id": "mSJMtNuL3kLs36dSCr9kSQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 22, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "3VAJkYsXkK5muiQZzP9F8B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 23, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "8HNLF3f9Pa7xRfep5e2chn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 24, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "MV4ExCu3gtEzVWyLk7UDhS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 25, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3NCRPQ7TvL72qzL7SSj4H8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 26, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9RW2EAk7ywF4BWx3ezR7vu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 27, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7UxJgYoL3y38sytsdhqsQZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 28, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "QLYYGJ4RQ8Wf9zszS3hnKx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 29, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aDfrUijvYnDcJaDK79qtHk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 30, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bARfGJxaWzy3M4TWDBHTPA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 31, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "SzhdE24e4fcGMaDas6EtG9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 32, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "6dguNoEn39Ay5rw7iiCRHx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 33, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RHKn7ZZJTEHwngwzimsQpB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 34, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "7RDMTEmjU62kx4uRQ5XtsN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 35, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "No", "answer_id": "mQWy7VYwS4od6B6jX4kzW6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 36, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5YoQUiXiVrVjZRkFCRvPYR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 37, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EfZsRQXjiUrppCjNcX39uc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 38, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "YF7R5vCoUXT8seFHRuXRQD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 39, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "SfRVbRCsEUNQGAGqh5nwJz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 40, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "Uqvxv7WRoWno4ocpAsQbDs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 41, "prompt": "Is there a fork in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bLojfYA2xjVfHNR6sRvAyG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 42, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "NmzG8hLWf8tmCAhR7AVSt4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 43, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "eaXCceb2q4vKrXKzS2n6Js", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 44, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "KG3kqiD8Fm8c7dvAfPfGa7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 45, "prompt": "Is there a toaster in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7CoXVdyzQv9Vxdw5gR8Na8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 46, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "BP2f28BuxupNpVJkX3FgEL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 47, "prompt": "Is there a microwave in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mAVvH2GbaE5cjPvKCvmSij", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 48, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "iYZPz3HM3sDtkjrWNqvYYM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 49, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ekWYaHqAkGQRubqiq65UZ5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 50, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "SNrPZX3cEQdb4Hi8hEujAB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 51, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8yVpMS2DCke35MsVGu3aVk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 52, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "BJYBHyYqwokqeAv5kkH2Bh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 53, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CHUC9ZhCY4fwLBH7dRJ3Tp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 54, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "diH4tPjhYpwz4KcoCfyoZ2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 55, "prompt": "Is there a bird in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "a9WA8uY7wY5ReoRGzWrr2n", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 56, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LRTX47B4cbd9oRzaPiKMui", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 57, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "b8ZZdcWrgwtESXEVeNLBNi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 58, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "7wUUJN9oQdSGJH5ZShuNm5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 59, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Fi8zVHg93RsbmFNnFGKwUc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 60, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "UDkcRVfYWnhxvWQCbX8uVG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 61, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4turNnM3Xoauha4DgSLatF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 62, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Ejs2nsmsSxaoCrZ87tBVjC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 63, "prompt": "Is there an orange in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "a2UDxhtMseFXAXDWCViEgC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 64, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "7Rng9FfFZ2Rv7nmT8FZc57", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 65, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5grrvmNBDJ9G4cXgxkdzwC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 66, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "4DAux8vVUfX34a5VKvWqKi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 67, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "fQC6nX5pucQZiSJRkC3943", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 68, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "MAvThCcJfPePXaK94Cr9QE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 69, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jx6UF87LV5pX6kdMof8bxQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 70, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Q9roYhFgTFXUQC8QfVHEGK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 71, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EWXvEmJS7sYBbY7tzjGNRo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 72, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BgZa6GFWh2oTDGXayVxK4p", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 73, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "E9ftW6iCkdoQJRpcKVpMjY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 74, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "nYdM5rSvHpULno7yyMvD25", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 75, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "AsE6n5eFLgEtvf7jXP4Z5X", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 76, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "KKHCQzENqdtQr6WCCzRMDq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 77, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dj3moGHmxZKAYmESyopqt8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 78, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "5SaDoYufgwzWbN97mn2FSy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 79, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aEU43BgaPeWpuWECJgjuPc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 80, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "C24Pj6PonSG8tWnURzJemG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 81, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2j2dPdtvXB2pdUcEgBv9ij", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 82, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "aDPZ8PAPR3BMrVe24SLBqQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 83, "prompt": "Is there a hot dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ssh5j5QgBmmc7ggiPDBg94", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 84, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bTFLqPkCNioohdsADEWmWb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 85, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eoTxtHyKBfX23QYaRmH2dJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 86, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "f8dD9PNwUbZHcpGnuEczjF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 87, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JwFNdsHq3WSvvSDLb3EnNe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 88, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5wRwj2WSscnQoTmmv82xBP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 89, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HjibtT4sixFHsNHBLYmkAK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 90, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "3vi6FzGwPafgg5dfXTUwSZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 91, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2jU4HeT9wdJJ6uMrD3WcyB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 92, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "KodWZZM6FBTZjNBreST3of", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 93, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "QoPr427xJNPozT3WWHFPAB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 94, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Wbo5rieuh4MXwPFHNCC3tx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 95, "prompt": "Is there a cake in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nfgBGx2MQPGscamZH4836Q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 96, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "9NaqzPbq32F7QeAmxWRiox", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 97, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GgqEhkDLQXXtiXj275x8MV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 98, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "VMBpHourvcTv5EWjERxjFg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 99, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "No", "answer_id": "dCWfMCoRXASLmrw2wsSgGY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 100, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "YdPJ9MKQ72aWgyBoWeGMzP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 101, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jYPSiJa4Tkwa3gYJcrSLer", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 102, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "eqbEPGek8TxasSxoY3BQ4P", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 103, "prompt": "Is there a baseball glove in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EKYm8bbpQEQetEDVKmiwZo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 104, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "No", "answer_id": "e36CkiFJBZS6thybuVWFTF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 105, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Wsgkyn3kNfaMYa8EevbD2p", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 106, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "dsgxJ4pMBGh4TgydF3LNcd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 107, "prompt": "Is there a baseball bat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fRrSxguvgTYqBtjuE9YYMn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 108, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BvVenZbVnuuugJeyYhoqih", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 109, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dgkgtD7FjM7vpQqRmJcou2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 110, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YbHgosx9nTiXD9fERnZYvc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 111, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "n8VDoiLJCZ33hkczXL2Z5f", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 112, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "34NPMFhRqiRaRACFVYnwQc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 113, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DgmtDDa7YxRrSeNopGqeYn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 114, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "Rr2cub7A36zgsfmncej6hE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 115, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mrTxjfpUEJiZSavsobmspp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 116, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "SLftR8q6ZNWCcbtyW7mwsa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 117, "prompt": "Is there a teddy bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5tYuaLcwEpgyYKgSsFktaF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 118, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "No", "answer_id": "7aJLVAGXxCrfrSLxnFByji", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 119, "prompt": "Is there a bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FBrKdpxEbBVkHtPdXYQ7X6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 120, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "EPVfc9UhM8LKeSZRD2nAVJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 121, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "LwejkHtkkBrYNq2ZXafjhw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 122, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "XdUoKnviyduzXjK5VkaGQ4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 123, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "dqwjjEoSvJCQP4xAaiD4Q4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 124, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "DQ6r3VC2EoVBWFBHqQXJTy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 125, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RGBk5j2BkY4ALWDQWj5sox", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 126, "prompt": "Is there a fork in the image? Please just answer yes or no.", "text": "No", "answer_id": "iYpkHevgF8cKwKrXb9Zycz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 127, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5kRmWZ9k7nctcUgfsMQoMr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 128, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "ToaLmiMV3PsCRgVkPf6b9x", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 129, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JRdmWyBbUVXi4Q4rFBctVQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 130, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "Bvm88mxT3S5TYYn9WtGpCT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 131, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JkckCkhqnrC5dEZEKrM7ts", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 132, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7zYrmvS96xfbCzJpchQe4K", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 133, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "cpNc5ErYopxgN3kL8oB3qZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 134, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "MHJMKwkkG4aGN2JH5f3VBC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 135, "prompt": "Is there a mouse in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aexFichiAWuVe69bUBA9jo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 136, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "iMvtkC9UZGPoSgFJi3WDav", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 137, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WYnb3eQRNKkNGmonxmxfq6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 138, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8UVaDQTStzGcRatgLjxNQH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 139, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Dj39nTTrbVMHfXut4dbLk3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 140, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "kUQYK59Cdj77iuB5GE5SN9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 141, "prompt": "Is there a toothbrush in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fdbag7UE9zYNtQNWqY2Ab6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 142, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FVVB6PWBqndQkdeAUZpTvD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 143, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "b4vZG8JzVxqzecc9Xu43jR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 144, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "EHYuk8N6LTdZQH5UXpPmVB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 145, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "NoRovQEBjJMCHAVVuxdgYb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 146, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "kZfJxGDer6sWuYfEcjoDjX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 147, "prompt": "Is there an airplane in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "2BmnEAQobfNR9GfybdYCn9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 148, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "PM2k5TGnVaLzGsHwyHhNeo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 149, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "DhMxE9JupVhEDatyUKSCxX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 150, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "Nvn5JrwkWtdj3TRAPFm42b", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 151, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YQ3LhtCXFjrdKBbqBkvjAz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 152, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "oGqAci2Nx8oHw3B2jNKEp3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 153, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JB554wj95ZFD4wqhSGzQxk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 154, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "R7NL7fEEFmJeS7aFE3umRq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 155, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YAMYHKdh4djGpLB5pZ8ynK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 156, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "7S4oXMTwFYH7NoELhhch3R", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 157, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aBkVoib5KoJj5pbXBGmP67", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 158, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "MvJ9E2fqVBgTpb2J3DNRMT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 159, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MJSXidRAsqGpqtw6hxKW3G", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 160, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "eC8J5wKvShZkzePVNjjtsN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 161, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5LR9u9PujMybLhaCuctUUd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 162, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FTqVes7kVMyCp8tzkZWGBa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 163, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "746r4q9rbFQisgNS6YMnKx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 164, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "iSctQbitNnGqHYuPoJfMpw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 165, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "66zmnGhT43j8NcitMB4SCT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 166, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "etWmdDQ3rXAxeNfBxhVeAv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 167, "prompt": "Is there a cow in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PZuszpdvJkSFLkxHqHDHGr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 168, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "GTE4fovAZe5KyyFtWhNw8J", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 169, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eXuCzn7AvYAFRB4fJa8TqE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 170, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "No", "answer_id": "cj6EC3PB2FuAopi98RcVXp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 171, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9tGzDEKJNpNnHtfNwHvUc6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 172, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "N58kuH4KJrJbU29mQD7oK5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 173, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PxqvXkWxzKUpGe3tUHxjFJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 174, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "7TU9Hgr2f7jCFwy9tXQP6U", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 175, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LmAuCMQLmCxM3it6Qo7cZo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 176, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "EBDEEr3onYnNQSpgMNuqwa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 177, "prompt": "Is there a toothbrush in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WTiZBAP3qfX96PLVmdhHx2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 178, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "Qp8SVMdKJ9swfkSud3Quzz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 179, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hEwn9vae8XFR38pkcFVGsu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 180, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "TdeByY6rj26ABhBq35pxqW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 181, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mvqVSkpJotEyUg7A3HiVyH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 182, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "MVFfeVkp6tHz7bgyNBFFEp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 183, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PkLkwkfEvdu3qc2qbv89jv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 184, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "Ch9kQk23xQCD2W3ua4jhpz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 185, "prompt": "Is there an umbrella in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "2LM6SFiZZVpGDXFLTtnFvY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 186, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "34PKm2XMTLVdEfQtpBcjm2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 187, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "NNAYt4JLz4Knkn5nSmbRdG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 188, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "U4x8SdtuYz9KficVa63HdG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 189, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "U4hQZBBu7hs2f7WHyPkNhH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 190, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "EWkeC2zmMqX6hCzJtjXUEG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 191, "prompt": "Is there a skateboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DZ5bWkfvbTgo3qh7AdeaKa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 192, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4cRrojVYrkjDVMWtqxh5bB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 193, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YzDERHirkEVK5Bt6YzmGRG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 194, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "VYWshZFD5qjYezFS32P2AA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 195, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2LcacvR9abaVu5v5FFBtKB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 196, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "XkuEsnFVYr8DSjbntmP6Bd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 197, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "kpjJKQ42DFUb5YS5EaMag4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 198, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "i9nc2uSXWTQxC2BVJyPHgr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 199, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "8wLWTgywJZPeRyMmUkdezP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 200, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "No", "answer_id": "4inxq5KWGCmVnE4Ry2UTuN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 201, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EAj4jMU3mNYFkQGrGHgtJX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 202, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "22DXjq8wq4L2UytWBMWk5V", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 203, "prompt": "Is there a surfboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "QG8UdAeR9PFYZsPZVMwGn8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 204, "prompt": "Is there an umbrella in the imange? Please just answer yes or no.", "text": "No", "answer_id": "NQX6UYWn9HhgADDyUTCe7n", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 205, "prompt": "Is there a bird in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fBmGu2yk8EK5rbXeUfvS2r", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 206, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "YBZa2f8gK7CCq3Yu28Nnq5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 207, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GYJJE3RwsA3wdZg2Dcrys3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 208, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "cKKcFC4VUNKXjKEbPZZcGG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 209, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "No", "answer_id": "7rWAhLCxaHixANBRFim3VX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 210, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "8tgiK4yj6WoCdnRD4MMbgs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 211, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hbPq3fCCM8D6YXJdwHErsD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 212, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "S2y8uMLb522WzqLdQ6X6vL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 213, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "R8QLSSs9gKhcELJCcLpoVU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 214, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "aSJgNb86muzixgpCdo8Yua", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 215, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "6aJJKwt4YKK6EPMZTziYMV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 216, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "ms4HCE9qv4a4ebYujGbb8o", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 217, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "YpFyJmu6vJPUbU3at6SqbX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 218, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "2hLuGyfgpoFgFeRWMH8V2q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 219, "prompt": "Is there a skateboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6Gu9BuJtdkzKYbDYi7xLyJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 220, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3BuTu4aD9Y2Ya2dcX5PbUU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 221, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UraBM2ZjiiJ9C8MfWRxz2b", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 222, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "3WqXf25BEdo7xpCbq6TUXT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 223, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5iaiGm5KWpWaSwAw39Fien", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 224, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "nQMYVz7wNYU2PuZL6i8Zcq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 225, "prompt": "Is there a fork in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eWhrP7yavFGw6ttK5sAeoX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 226, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "gdwjvEn5qznQU5AiBCGSmE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 227, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8sWUZAb97m25ujwybyDiGV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 228, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hiquC5zLsZYiwxePh7wq3U", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 229, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bqw2ZNYTAVs5EJAe7L8tWq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 230, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "f5Luo8LHF9eE7m7iKa3Un5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 231, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mYuBUjjavCKnzqfiycyxwf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 232, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "3LKqN2mQGHd7H4j8QcjSPg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 233, "prompt": "Is there a mouse in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZPRwE8NjVNV9JuxFtCTuJH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 234, "prompt": "Is there a cell phone in the image? Please just answer yes or no.", "text": "No", "answer_id": "XuJooQSUSWuqooVD4G7PnD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 235, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "8p6Bbw5H3Y8eVgkaq2EnNP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 236, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "QnneWMTw5ZXx8MPhMkXUKZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 237, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "k2u4dfapW3r2rwr9D8kyjo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 238, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "avJHpbbQWnWvCZTgiGgaQw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 239, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FbFJWfeceM7E3dt7LCsauo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 240, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "acnVWnsz3hK7DmdTqCPZ5U", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 241, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "a5jYmzhYBpMXZK933hCS7t", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 242, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "dCVKgs2pgEBoHuWLfQZnX6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 243, "prompt": "Is there a train in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "n4RhDeraTmF9jFzuJvtTVN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 244, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "V2mjADEriaZY2PmTKmMXgQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 245, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PYeDXDcNnLmLNjddYL7Jtq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 246, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "mxyhon2h88ce3Cci48dUaF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 247, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5HmExg4zDFJemB7ykKciJ5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 248, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6vwhbaDf5ckCWZNsiUgfNh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 249, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UqmWkwcbMsqzRKTKHqooy6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 250, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "KknbsEyGGwAS9jxU5hBwkV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 251, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aCeqnCY98w3HWCjGXALiCg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 252, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "E8q58azNB4CEyGheqUozA2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 253, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CvDQ2Whr2xctJpvinmZXEu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 254, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "f9bU57H32F9xiTQ4Lt5fRR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 255, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "TA3BZwekXsGdawH8aaNYFd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 256, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "AFe9gLc38GafY3cHpjTesK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 257, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2y8fi3FqbBCKTWN67Jir3E", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 258, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "No", "answer_id": "EjLbp2PbQQjqxhXGsqNsdr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 259, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "SANzPWUwUrQQvxVRycFSRv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 260, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "Mr3eACqLRYXdgVwEs9QLdh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 261, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "SY8DizUFPSB6eZzZYYd4i4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 262, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "K2rGi5hvrHp8yNZq3QFMyv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 263, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VeaYShufUAw7KixidEGC4j", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 264, "prompt": "Is there a tennis racket in the image? Please just answer yes or no.", "text": "No", "answer_id": "CbPB7zCDm2fkhdDxpBbW6j", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 265, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6C8M6utUuh2NkYJzt6jGho", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 266, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Lhjj9pyZjfngPpnocaPHZ5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 267, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8kncd5h9kyH88XFtbqYeSC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 268, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "CWFY4TdURx6sYsLsNpERGS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 269, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5hWhRiWDF6PXBnamvZM2Xb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 270, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ADuBAvFTkXzDotQ5r7o7ts", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 271, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VaUAXjZ9GYjHCWpjWoWUvP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 272, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "eX8JUtzcManSCmVqB6yNVG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 273, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CK9ZBEyn3yDCyvEag7cKZV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 274, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "2KfxYKdx6EfByV7JtwPeHc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 275, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4ST6geRw4hLdoNBeE4h64z", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 276, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "5KV76r59NaT67EWGEZpFn2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 277, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hrZoD5dQGtJUrg9QFSqiJB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 278, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "FBgczRPZnzkXweDK7mdJbF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 279, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6HjnwCCm4RdXwnQNnXpSFb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 280, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "ioeBdgbmHawJjtqgntsuZU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 281, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "htq3jnuhHPtQv7MkRrQJof", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 282, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "No", "answer_id": "FcrCbUtFLVoD8oWGbFuULc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 283, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Wphev7uDamCMkvTHvT3PiN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 284, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "5XuPryqe7kR66B2rNRceYG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 285, "prompt": "Is there a suitcase in the image? Please just answer yes or no.", "text": "No", "answer_id": "F2SGbk7TBztc5c3395p9SR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 286, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "2nstmSMRkrx9cjWMZTDAji", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 287, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "cD9k7Zt22mFob8ZnzvK3EQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 288, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "L9pFEpeihqguDELWYh8Ckh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 289, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nXrTH94Xd4U2hR9NggXCev", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 290, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "BhbtPnPXsuaf2MYXcyrKPM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 291, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gEYtEH8NEpxYsgd38WkmKr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 292, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "nxYao5EZXMvzvLq32RMRcC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 293, "prompt": "Is there a horse in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FJeoBfFQXk5fzCrh9Urgty", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 294, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "Pf4UokfxLARUMSfTfRSHrh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 295, "prompt": "Is there a banana in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ct8N4zSQemLozzufXhy5Qa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 296, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "3XpyBoY52cKaNd4BwDnJPL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 297, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Wc4Kip5QNrPyyZfAZR5Hxg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 298, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WXc4fpQ64tYAnhSbXXFGVW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 299, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HGHDfHLXRyQ8TkTRTVDVBB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 300, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "No", "answer_id": "5WpbfqonE97MbUtTYrjzDx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 301, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Sb3BGyKjEukzS5cHDyrj9A", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 302, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "bhdoY3XGNBty2EfAqdxsSq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 303, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PTneVXqZaybPQzMvD2Hz7W", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 304, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "C6uzbsgHHPSVYtAGrc2vyi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 305, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "cZHBZhXK7RX2rTWfBV6jVM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 306, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "kteGYHBoCGKavrBBGPfoy2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 307, "prompt": "Is there a baseball glove in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "XGH5QNY3ubyCBVxsLwVEgQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 308, "prompt": "Is there a baseball bat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "XTp4UpsjzFny27h83ZNUHk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 309, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fDCpi2ZXJGs48i7MbEpAXr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 310, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "NSHgHS6zoNvivfmzX5M7h7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 311, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2msajmBKbaLp55CyAvoBKr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 312, "prompt": "Is there a tennis racket in the image? Please just answer yes or no.", "text": "No", "answer_id": "RJty3yU6iHXFjARrZ6bdkB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 313, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CB5ZJsCejjSBXQ9fhYrTi6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 314, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "PhZKsuEhAfJXQbibnuu6fD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 315, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Se5VsLHhrkMtEdwCGnq3M9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 316, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "4yj8U8jncXnNfrQHthkQxn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 317, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GVSL4HVDXUQTMGdqRLY82r", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 318, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RrsZLmjSuSmwFfmspRJhbU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 319, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "n9TFpe9kEgWJzbwwRhdi4H", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 320, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "4fvysod8Sc36iEiRMBJLcR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 321, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "D5bLWu2ZhzDbivbT7xpBzb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 322, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "CsrjT9V3iNgU6uMKhkWhSN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 323, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ay8sq9cRT6EhjuEJZoC7VF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 324, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Xx9d3wRn5HZqezfGKkf6QW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 325, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8afUNpGJN5zsDH2g6Rdo7q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 326, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "nLwBihRHz5u3JCcXu7Wd5Z", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 327, "prompt": "Is there an orange in the imange? Please just answer yes or no.", "text": "No", "answer_id": "U6xRbi4niVPkRBvmtcLFGU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 328, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "f8H6fhzoCMhTST6Fru5wCW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 329, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "TaxtK5xT4UZZoeAqRCJPbG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 330, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "JAfkdGdvx6Bn83Edv2xUPq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 331, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hG65anTrJtK4dxQWcUBc68", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 332, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "GM2qokUHPBiQoSNpijYcZi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 333, "prompt": "Is there a wine glass in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2U2Rhqd8RnnasxJRLG3NbL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 334, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "AcZ2ooZpqdv5xZFFPDZZqL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 335, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "G2gUyVBhXygnVsFWBMjG8i", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 336, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "5V3y4vysRa5y36TFaGuy2Y", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 337, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8GqXjUU6W79y6XzZyWwgDF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 338, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "PJxi8naYgY8KR3MjRnKSkW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 339, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5DQV3bnGVeZCabShWYnbYD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 340, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "47dw9DCuXKpjmoMwCuKtLv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 341, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "DvJrmqJyLadqfKEjiU49YY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 342, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "in53RSu7HtKNp7ZmPENKo9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 343, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WGhwtwc64SVAPwbqD2BeWg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 344, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "RfU88aTHqmBL2N68TwCV3L", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 345, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gZeM4v2rVZEX4EGEErxi82", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 346, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "5qgSg6ktvBUrbFYy9un99k", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 347, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8LHSVMiNUwfXhZWexiW7Mn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 348, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "No", "answer_id": "EVZA9B2BxGkUKTFp2pi7gq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 349, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gqb3vC2VR2SKWacAqahVto", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 350, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "oL8QVYjZVfcsGqvPotq49M", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 351, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KEBBhPqyfXKa5TLf9EFByy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 352, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "XPLYqkrhn2N8MhUG2jLHUB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 353, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "YFv6juUyGAcVhgAFiQ3M82", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 354, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "eBs8evqNM8afeJUJHtEVfE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 355, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "4ZDRt5vjNy7YyWbhpu2RkA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 356, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Wxt4bPSrjLD5XfaWGxKUAh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 357, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "YRmWgEgYTEBMkkqCpTz6mV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 358, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "SYDyvefkTjHxLaHj222Rt8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 359, "prompt": "Is there a refrigerator in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eJPmmpbUnNNjrRUn5CLWS3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 360, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Tc66ytijGyexJrsBFNzpQs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 361, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "oDEc5gCguHoHhdF8FAQNV7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 362, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "EesSJAMxhieqrFpXhuFMFQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 363, "prompt": "Is there a carrot in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "U4iWVcyDYUDYwGMTZpnmvm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 364, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "BiWyaj2hqXRb8p4zxB9ymd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 365, "prompt": "Is there a broccoli in the image? Please just answer yes or no.", "text": "No", "answer_id": "CNqiEu3nTF7yKVEvvgDjAA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 366, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "No", "answer_id": "RwSQ83d6BS5yLasqvpCFyB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 367, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "haph3Q8J5LfznhBgCKKdDS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 368, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "L44YqVigKnggcqZCsPoLsW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 369, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "D8fQNsuo3o9rbbp4iEaaaR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 370, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JCPigG6rDzJq5YGDaYyWaa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 371, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "APDyaBzA9rWuy3vvg6Nq7i", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 372, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "n9K4gPAGuCJ5UQS9XqK3Dd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 373, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VoU2UZuN6kRm9aEMx8d7JE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 374, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Fik6GeUrziP6TYJFsiCHy5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 375, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mEsjSsum9QhM6c6XfRVeNH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 376, "prompt": "Is there a bird in the image? Please just answer yes or no.", "text": "No", "answer_id": "Ltw5kLBBhxSdD4k2eT6kh4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 377, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "W4fMRwbyR9q7K87hVxDnqm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 378, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "SffijyQSEPeQwCuP3QiAqY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 379, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EJx26WhRNeFgMG9kfVMNXf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 380, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "HLkffZ8fcpoePb5x3rpP95", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 381, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "csWTJ85QbTWW3izC6NwNpu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 382, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "UkosN2p4JFFwz2VPaEAXcS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 383, "prompt": "Is there a skateboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ar8Gj9uWs9fiKDRKQyPwW8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 384, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "GqtdPQBBmGBYfETt9y2hVn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 385, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "9i7fE7dHEg6yKPAAioxRVj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 386, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "BanqoRZ9PiBufnYcSvDMqo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 387, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2rnZpj6ax3C3X9SGjqHtmG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 388, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "fVmAjWxM9WwPDkkgcD2Ngy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 389, "prompt": "Is there a refrigerator in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CFwroGrAbYbxsZfFP7byir", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 390, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "8GbymXFKjWJGpYVaucyMFG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 391, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6fJJVJ3ZwR5M8XiPvw4cSy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 392, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "SCYRKNtGG3NBYa78Wdecdg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 393, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RhYZCvESXgGiL3jtrweMmv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 394, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "MSxZ7v77iUUDC3dXTeYJ4E", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 395, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fx3RhtCRmEKt3uLHyLz27a", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 396, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "SeS8wqw74jCRkgaGoPgm5N", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 397, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ki6JFdGgcnezfFg5WPq7HG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 398, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "P4jt6bKMjrMBMk6k5h4NDx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 399, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "No", "answer_id": "WAwf9NXrNzc8mHuo96uaBz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 400, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "kiRDbLpRij7dYGa9NbxHvn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 401, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "P8mnoqRQuuLDrZPkZ3YbYF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 402, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "bhq5kicicYgYKScyddjQtu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 403, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ESg3qoWyBMfHrSGcZpNSeC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 404, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "FBQeqaZuZUbouyvMbPQKhN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 405, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7RztTi5K7wVa8A2VRVczVo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 406, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Dk2fPKs2CseTRjseA6tdko", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 407, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LrTk9bzwwnnDUtbvr6FqGD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 408, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "LozF3BLLC5VqqQfSxua4bR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 409, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MAbgkqHGmJKLx6j2RvK2NA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 410, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "D3FGutfbKeiA2SP3yi4igS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 411, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "iHcGGdWEBy6GBMjC5J2iHN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 412, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "bEBSFLmSbQmZbwg7YS8rvD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 413, "prompt": "Is there a tie in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nhtYkywBmWrB99emgb63Q5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 414, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "BdzJWwQfEW2ZFu3vcm73AE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 415, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GpFyzLZh8p2okJfzAN27s3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 416, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "cP8p8WS4NWJWVJ3BZs5oM4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 417, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9ZDCb3FnBYh75adCYogRhB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 418, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VboHQZFr7n3oqc5g9AECHY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 419, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MCGtbaF6ypfJ9EvK9jgNRh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 420, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "ieZa8KUTks5ewc2aiC7wmE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 421, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "NdYqo3vLzLs2BkLMXHrYnS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 422, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "ReELihgSSoPFktWPomdery", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 423, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GywwnsU3Ju3hMwFDKRaMNP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 424, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "2LtSjeHuEWN7KjkVDQk4bY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 425, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5CV6mDkGHLz22UrB53fwnR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 426, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "e3Yih6P2Xawt2THTeCTxTA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 427, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "V5KjC79ppz32kDCgSeDxHG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 428, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZY3srRMxF8BzQNKcdNUFk8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 429, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "naFrPD4M2NUVtzDbcABuzw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 430, "prompt": "Is there a baseball glove in the image? Please just answer yes or no.", "text": "No", "answer_id": "o2pSfCwaLXg5ZKaabTYbkZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 431, "prompt": "Is there a tennis racket in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nWVjkXk6vhCVMpdRLt2xNQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 432, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "5nbVvGyu8pvnNSVsrDMF2m", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 433, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8W7wzMBHX8EaxUKb8bj7E8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 434, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dZsjhCSCkpu5dCQYXhuhRC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 435, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dSetggbtsjkkQEgVpfcnz5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 436, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "REUd7ARRRZFZ3d9UuACwuZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 437, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DinbnLV8phzHCQvaYu2fQt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 438, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "MLqC779jJdHWAQ436fWGhU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 439, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "mjqDYqeytTUQbsVYFEEpah", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 440, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "KHq6LEgZMrSSLCcaSaGRGj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 441, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8qmNhiMKRpGSHFYBm6SZT8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 442, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "GjQieuuYLNWmq2CCzzvMNN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 443, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "2exoiCrJCeXDFbs2tf7AgW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 444, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "9B5kmgcBLo7LyTLUUkGkDB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 445, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CpmeqcwkRmYdRBvy4we2nC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 446, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "CQsipGyrGqUk5uT6hnECAL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 447, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "No", "answer_id": "XTcZXZMHjyfRmgKFXcTHhb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 448, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "fp5MgRHjRuMyYHGKT8Q2aa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 449, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jTcg8nUCXcqDY6jabct3Jb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 450, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "KQhWdyWqvdof5yGS9XNqmX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 451, "prompt": "Is there a baseball glove in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "X8ukLcxU64V9ZCWeWYzDP3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 452, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "VsNAPjUjhE8p84ZTqHc7Vg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 453, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dg8bPVybVGnrzaE2tjmVon", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 454, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "2N6ukMQcdKf2etahUgaHcr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 455, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "No", "answer_id": "4NuWXFuvdas22342Pge3UC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 456, "prompt": "Is there a tennis racket in the image? Please just answer yes or no.", "text": "No", "answer_id": "cGUBdZP2yZsKWs6DqhaMZE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 457, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Lv73n5GUhRWvkBgmcaErLH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 458, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "iqRMgWuJqMLwMuucRnfM2E", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 459, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ABFWE4mJBoeZ8ssxrREGcB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 460, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Yf5G2DBm2SPKZVPuPGxzpy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 461, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KRBFC2pJovtfAtRVkvoKFM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 462, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "nmzmjY6sGyERxJsV9ZAWGv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 463, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3SSExuZH2reH8j99pmT7Mk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 464, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "EMbJHyREuWWat2934K7yvi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 465, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "c7cpokVpvXcH39edjybET9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 466, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "2zTWTmSPYcStwbERpfvNzL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 467, "prompt": "Is there a scissors in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CPwgLS9pdBpzbnZeAtjzGD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 468, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "No", "answer_id": "VPckvUxAsVwS5Tv6dYCSwU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 469, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4UVYAUALcrFUA67pudkGAa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 470, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "c9vYjDnLV9An2FJWc6pssT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 471, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ikCupj9xuWreaKNYWbgmpM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 472, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "N2oHSNR7beQNVSvTmKbVDY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 473, "prompt": "Is there an airplane in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "adYFfMLxh3ht9UGM46pjUx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 474, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "DkET3957ivfBNCySMTYDYX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 475, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mmgRKwStWB8Jn66k7wZAiS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 476, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "EdjsuQ62NCwSK6UWjNMb9z", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 477, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "D4BEJbg7vYv7Ad4vUX9woc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 478, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "VdfENNCCF5BVgU5iV2u6QY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 479, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9mg8aePAe4385mwX9XEuRV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 480, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "9nVh78U3nCmNr7jC4fYh5a", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 481, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PbbMGp6wahwLU6xNNz2ihi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 482, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "jB6UGWWmc2ixvBHn6f5aYo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 483, "prompt": "Is there a horse in the image? Please just answer yes or no.", "text": "No", "answer_id": "J6MFMjjHXd7bsTYGgn7g5k", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 484, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "TpE59va5v5FtBGf7n89xJx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 485, "prompt": "Is there a sheep in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UyB6CRVgurtH5xzvKXyMtw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 486, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "aWmpPr6UKJvcVm7WU4bvP9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 487, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6yW7pFtTKqNK42RdPHdbNN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 488, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "PRCntiEvKfF8edSTCNXogc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 489, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZH8K95QYQUimrBy7GER5EW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 490, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "mAzfpEids7Li9YdXUc7m5Q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 491, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ai3WkvAtfrifgAR53C2Jb8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 492, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "QSLu9v3MbBRpY7ye3ZcPBJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 493, "prompt": "Is there a bird in the image? Please just answer yes or no.", "text": "No", "answer_id": "ELWGDi2EDPhEMPMQWEPFcb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 494, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "No", "answer_id": "E6AK3tiVbt3vrNR4h66jKe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 495, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PWGvWs6vJx3qiYgWKauY5M", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 496, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "jquJAx7m2QLWm6tE9nPmfX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 497, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CqGEkvh4yQcuKNjDe2xGCk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 498, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "5uHyy4fgAMVLT6G3RAcSe6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 499, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RrNWEwvUXFfH7mEwpnDJkQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 500, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "No", "answer_id": "6VjBQF2e8a48pZ2odXKz8M", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 501, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZAL5zd9DHJNywMHwNgvJoX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 502, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gFLww3p6ZMJ4QngvnESJdf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 503, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "D8bGnbTvgPPhHTCHCCgaEh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 504, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "MQBuWATBhiDTdx8VHbeU4b", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 505, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2EmcwqNGKqkExp3SdyXL2n", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 506, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "VHk8YizpNZ5PAUuhRW9FPc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 507, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bt7gfkViWAqVh2gPKyiPVG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 508, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "FDPbfxvnJ2fjyHpx6rER5b", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 509, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WesBZWd6BTKpXPHfgKQoAQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 510, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jrWwefqUDPfeuaYJUpBJvZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 511, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DMJs5pAdArsLCTv7uktcAN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 512, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "ERH35qPN77aVYRd8CytS44", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 513, "prompt": "Is there an orange in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "3njL6sqzSoReEEGRwargAW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 514, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "HY8gsuYFFUpPGVemG5jMF3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 515, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "W4a5wNoU5fiGJxHRUdFBUM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 516, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "dDpTN8tBMWEzf325Po8FnB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 517, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "VGdr2QD2mDkFBXGNwd5GMf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 518, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "E6FiBrMjAn9yXdQVuYdbcr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 519, "prompt": "Is there a mouse in the image? Please just answer yes or no.", "text": "No", "answer_id": "MUuD9q5jYkJNa7RCYsfShg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 520, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "3GiUj6bdrVMKDdoUMKERah", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 521, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "No", "answer_id": "LDoAGxm7ARb8ydLSxnsWZg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 522, "prompt": "Is there a cell phone in the image? Please just answer yes or no.", "text": "No", "answer_id": "LX25XcWLUKbKJkoP6sxSMW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 523, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "NhuVUsXrRc6jte6Sa76EdN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 524, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "hTYGLL7pX4rSfKE7PSaRvM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 525, "prompt": "Is there a broccoli in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CANhCBaKrM8EWfVhiqGky8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 526, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4vuq4D9NvSGw7MJvJFRxPJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 527, "prompt": "Is there a carrot in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hmPKuZawYNKQJjqNK3Vb6w", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 528, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4TfMZGEmyWMhR3MYmxxChj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 529, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Y397e8oriQEzJg3CaQeBCF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 530, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "8dsvEJRgtyzRs8rZPeZU4J", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 531, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eS6N6udhanrnok2ZCF8cFh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 532, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "i3tC8m357zuPSYP447hCgR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 533, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "No", "answer_id": "dGpavtCp9TDsNg9cn8cKMh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 534, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "2BjTdot8hJpf3hvZLMCxjQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 535, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "CwcP3ey4YXJr4mgdYrDVpt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 536, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZW4Ks9G9zBCpXUTwbvwKTf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 537, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "a3v64wLtJo6TpxDdES5Ny5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 538, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "XCznbpWxqzVYRZZJwYGVx6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 539, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fvh7DoiaFyRaCztQDvtzJy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 540, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5SzyX6UszNSReRTH7K26pQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 541, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5eYxkPQ24yJQ33ESTYPGgc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 542, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "jjigLeqmUiNocNXUfTMKoH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 543, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nTfdPNbNLXRHwmz8RrCjCs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 544, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "NdypPG3azSi5WpHYmDbkCE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 545, "prompt": "Is there an airplane in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "KvBnTZF8YR7Z8tznVz7Vq6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 546, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "ktnN85wLp5agAuzrEsMG6k", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 547, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ge5wq2bWMAKyh4GnZiiBRC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 548, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "DQnQcSU7bYod5v7S2jMGbB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 549, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "m76Hwf5QJsqNr73uhr2oxp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 550, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "Y87LeMeSRLyGdaFNvSCwSM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 551, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Bh9DD9FmkpTivwHvg27tLP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 552, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "eyZfinZe2mbxcAuVeVVgJX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 553, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "WzokgzYv8VqTjdc6aEWsaK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 554, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "8YyEs9Kjny4VMmTMrirE9B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 555, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HvDFMxxd2HWrVBiRZxnWWe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 556, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "cfaMVGE3oFXxhG44eZ5pw6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 557, "prompt": "Is there a sandwich in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WACNtaeFiiX4EFAtFsBp3i", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 558, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gTmMi2tZzKKqXYBgLueCh6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 559, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LQj8r3aEiKz8g3YrwwqV2F", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 560, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "cewnD5TXfuTZewAoYP6fqt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 561, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "YHNMKLUKj75xUR7VNhkZnJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 562, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "22ZQ3eC5u4uGTgB6svxwQ7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 563, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "V4HbGewfbAZL3VRLryAEYT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 564, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "6zz6rnMggqZenrSw89BYaa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 565, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jnJiDxVaD9HeHz7VvhWVAD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 566, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "XSWKWRYmbVpdWqUmfaGNtN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 567, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ncJC5QWtnhWdRfyPUdLi2p", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 568, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "4Uf4xMbUU76jJAJw6Wf9HX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 569, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HxUxZXJY8KzBuMS4ARRWLg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 570, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "L6Sx9oZDi3VRUzayfSgAhy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 571, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4Je57pajJGAJ98ozJfmvHo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 572, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "BJZ3z7n6cxhVjqS25YC7DW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 573, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "XqRHTTrAVzWwixP8uJgMY9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 574, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "a6SJ5N3o6yE9NZHNuxeV9M", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 575, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5ALPSpsWHrkptUZcfR9NK9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 576, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "nXbZtUpVCZvgFdKhr4DmcC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 577, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KKnqi2nyqvB8qoMoXhthte", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 578, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "SLKBgEuh9w77xvzhGqjgYv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 579, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jwyHqTq2F3FLgwgXkLNrHd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 580, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hPFG52UvAnskVxHMtPwswT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 581, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jybvqsA4Jz3HLGsiTLJsEW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 582, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "No", "answer_id": "U33LFv93c28VLgdLKREW6F", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 583, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "NR9PrH8w8vynZwMN9uw8js", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 584, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "jdtThPuG73562gDhxFZcB8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 585, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eD77xuqVZosPy3MZAzpLJm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 586, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "2CqbGSN9CPohz4LWcbFHbu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 587, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UaJpTwPDGdkVprsaCaVUs4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 588, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "Hhyi67wRBFTxA5krUB5N8h", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 589, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VWxe7Zw2SQciKDGd3tc2HJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 590, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "9DGJTZX7gFvAq9hQawMpkX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 591, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "T7VfJYjSKkcfvE7xuYDbFJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 592, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "akNbkGRzc5AUMfijaXSfGN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 593, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HiGv7KMmPoqLVCoVoKCNYJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 594, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "9RXXdxVmee4HycZUSEeyfb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 595, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "b82ssm6xaGr53Tn4v9wXoi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 596, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "LBdZAfFavdyb3bgkAMEB7d", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 597, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dRzRhBie6qLZEfJPzrvrso", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 598, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Z5EntqekKqTz29TpgpmFsw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 599, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MrtUUE25brfayCxPB6TDbf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 600, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "WWERUGM6htnjbJXv3pMF7W", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 601, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HYbAhupxUeScJtLNNx7xh2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 602, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "AkA3HDHZHqv8pS7KL3TNup", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 603, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "N5uKjQEDhi4FeTWrhm7586", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 604, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "AvRJeVxJKgHW8hbPn5orPN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 605, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6VWYmwTZEQYyStQ9FRtEU5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 606, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "ey5MFaAvky7L5gkbQSYLcy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 607, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MAgJurFNxBQyKqcSH2TFGr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 608, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "gmdeRky7TXZGL4spBGZXFC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 609, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KSRcdA86SDYpyRonuoQLBg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 610, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "EP7UcS7UcFUkfkbiQCKgpL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 611, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "anRS38mcFM36j7Ux9dQQ8q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 612, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZFct9beDCeqoS3ZhJthe2p", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 613, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RCWYSqgRKd45emQq75rwGn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 614, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "XizupY5uV6v7pNuBtoNu59", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 615, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ikgTKFgypW5pVJYMZgdCWw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 616, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "RvCJjqt3ZyQanguY6mnhd4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 617, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "nuxXh952veYDQycX6LTBQw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 618, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "VguS3VvER365L25jkTFhWa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 619, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ceQ7a9EWHit6WRGSsZGWZw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 620, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "9UmVcycYKQnUK6ZVzeN45Q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 621, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "No", "answer_id": "fUgPB3NbhEstJsi6r4BZRa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 622, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "YtX8p3RRWnrCjVUM7bvR2H", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 623, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8kkZWCCiHy9j8U6yc7avDq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 624, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "VjQMRvSzTcJW63xdsg2yRm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 625, "prompt": "Is there a snowboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZHKXVRUzUgenGAPqq2XVvS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 626, "prompt": "Is there a surfboard in the image? Please just answer yes or no.", "text": "No", "answer_id": "j86aviHv2GCMdwqDzKZzw4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 627, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "XmTbqk9b7sV6svBssGZr9c", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 628, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "3EtFqg7K9Q3vDmpSkGSH6x", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 629, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jCrt4ueixuk6z8Eh2TePKs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 630, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "QSFYTyrpYjmRDMUs78aNmg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 631, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "83tGa439wJQ35KJ73WygE8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 632, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "DxGGtZ47YCCzdCMYteHUmb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 633, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ERyDK4FAqsg7MXhk8Vf7hR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 634, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "No", "answer_id": "FmAcWqxey8qK6rWPfk5KRi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 635, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RyWdnyQJJWcJxUmevWMqk7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 636, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "hoxcJryXJGn7dougkAC7z6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 637, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "9W7GPwnYEpdCGf2uUXb8fa", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 638, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "F9hWbGVaUqEQnzVMEDuvvJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 639, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9TUnzZGgQfHGXPQPHEiFYQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 640, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "4nVTJgKmiMspX7VHMWZgFp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 641, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GJRvQCvekqayscR7Q8ujhW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 642, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "VZyqXsv2hd4jM4DLBPdnhX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 643, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9LAzqKGxRGNvLWrbMWassf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 644, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "jLZwFUu3VWBqnZRzeAdNob", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 645, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nBSBGZegLBSgDBhreJUdYu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 646, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Gut9c3foPrgqRKGxsv9CfB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 647, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JkbU8ti57tqJeua3dwXk3A", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 648, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "kqveMBN4dDArgjj4ctmNdg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 649, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LQ7gVt7LsQpZXGoi7SufnW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 650, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "VHGWeZZybjBSeywn5zDH5a", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 651, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nnrPg3bMrGJMf5ca9FVTTK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 652, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "RziPzT5EefGergUDEnsjnw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 653, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Q2QTgCzmM4sojQqo7qWhqD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 654, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UGZpJ7hPqfVuRDzJbcPj6C", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 655, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MgkuEVfP2bwXH7X8YveUBv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 656, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Yd5dzRqe9VHarHGxczEywu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 657, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "G7KYTU9FxkJsuqmbL88W9B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 658, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "gLeNryGUjWRppabFTp64aD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 659, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GVkLWE5im6Qrf8kcJQsVMU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 660, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ereoCYiMd2fp2tYtxvrcwo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 661, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VDeYjEkEHVMpatauPp8vnp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 662, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "WESY42yJ72eaSjQmhRhXMQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 663, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "T22Q9wXzPhivZbYmeMaVXY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 664, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "WWQB8Bku9CwAUVp3nNVsHu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 665, "prompt": "Is there a sheep in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "28yVX79uYs7VRB67xstv68", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 666, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "VNQQtbTmVJAdsnrkzmiCjU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 667, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "STVmrYtZtXFgp4n736opqH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 668, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "bWkF3MyfyQSaeAPfDTazDZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 669, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hacX83VfjPWhjTgkFiuRFc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 670, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "bsVnjMcuCCNaf5zaSJHqq5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 671, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "Dn49wJwUK2TQMDQfVkbTCb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 672, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YbnQ8bbB7NoxptRSyqKm5w", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 673, "prompt": "Is there a tie in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "oHTaLiVY7KnEFxrrCVgyTP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 674, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "Mi3zeUWxJ2Z8Xn6v6fisFW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 675, "prompt": "Is there a bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7cefC36DqakTTRRBx5ZZ4b", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 676, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "XqAwqYtWpu4EdDTqZZDW6t", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 677, "prompt": "Is there a teddy bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fLywWybeBbcRSJ9YnAQ5bq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 678, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZQFwv4yyo7u77LW6QpwHoc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 679, "prompt": "Is there a cake in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Tc8LnFuTTJVXg7wPRYLzK4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 680, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "kFNWEqsDrCC25yuH3o8NiC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 681, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "9KjAJ5MJyBAJ29MzFpgSus", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 682, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "5kXAR8AmWwT4aqdF5TwWXZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 683, "prompt": "Is there a fork in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "LHesDquhUfqEzbc8PrMKkw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 684, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "No", "answer_id": "EgebEuujLMv8vsXrVh5uuz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 685, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "H6m7PB3B8r2pYv5dSkgT4B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 686, "prompt": "Is there a skis in the image? Please just answer yes or no.", "text": "No", "answer_id": "EXy9kTm7Zj7sTWXGdA3H2X", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 687, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "34M2tHxNMEsMccwwwpBLd8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 688, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "G4UkZDmgAbUTHjV6CoXWiN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 689, "prompt": "Is there an airplane in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZMc9FK9KKW6pvSUN2a55qA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 690, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "h5rPDHfUu75NmTiVzpfLVk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 691, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "QvQfFMxCQ3ikQAU4seJ956", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 692, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "5SBsnQKYMKM9sSK5iF6pGV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 693, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ne8gnNsqQgEe9h5WVS48HY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 694, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "TLcHq66DSxj9HYShFs4MBT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 695, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "CD7DPU8byXsRqVDm9jdgTN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 696, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZPaSQUD5BXuhWUJBLzHoqj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 697, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KwJAa2zkdboHer6P7sEfaR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 698, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "FNRrXNjmbtRiMGf78iJy5t", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 699, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "g5NnJNc9z3oLHFGRooyec2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 700, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "SmUrzzRve2SobsUSaejNeV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 701, "prompt": "Is there a fork in the image? Please just answer yes or no.", "text": "No", "answer_id": "VvLGdEqtgmLyA8iVJoW38T", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 702, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "No", "answer_id": "7784tJjwqg3DdcrEHNDDZS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 703, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZVfWXoXDC9sMzfb75qAvgZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 704, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "YbsggNQtgpMj8ec4BK9fCF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 705, "prompt": "Is there a bench in the image? Please just answer yes or no.", "text": "No", "answer_id": "4TKhbFnjwQiZLw7THJU5LF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 706, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "6sgYyFuVo9WHvvkFH3G3BK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 707, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "4umHXxYNFSCo6Su8EAxtvZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 708, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "cax9FNLJB3Ze7YcpiPLcZf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 709, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "A4kdF6eVxPphM3gyS7jWCx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 710, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "VhXtutJYJMmjLTz7wZ4xPZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 711, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bN4VcVbmTsiPZkoTnxAk94", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 712, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "j5VuSNnTV8NQ2kRhNEiXmr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 713, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "iRRfU2MNa5x9DvknWQrUpo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 714, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "gr9iL2GqF6SpY8VdGoRWDH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 715, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "fJSBXpSrqiMSPwtRAn7TAh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 716, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "iYZkyExGXmX3rTozkpPqtb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 717, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5Jk97HHp4DT4wSmQmo25qK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 718, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "JB7xWGp95gzsbWvpQDnmZJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 719, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3iqLHXEeYqMtznaahyGt4P", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 720, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "KKAvA7nbSDhmmAWPRT7zZz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 721, "prompt": "Is there a banana in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "TSgEEn6bz6g2PnKxjSmYpi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 722, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZpfELyaBGqS2yFUWqgd5qz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 723, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "GWhR4fLBK3kNL5gyu3kMxr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 724, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "fkn5DAVLLwmjfPx3ByjbZ8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 725, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "kTszDG4gcMK8U8r2mnjkQz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 726, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jGfypLTMDDEoPw9X9yuM77", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 727, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ew7iBPWBbGPk9qW85vLvjw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 728, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "aWKrbjXEiaqrZRmLF2cxrr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 729, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eeWG4Gaw3ZYU6YVgyEQ5kf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 730, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "7Ao8KMpLw3KpzFgcBLre5S", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 731, "prompt": "Is there a sheep in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Rj4dmaagVvRMfFFsCmjUcj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 732, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "mnHdBRB3MZ5Uob6aZCALDm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 733, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bw7TAu9ovDzfiGgyLLpQbR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 734, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "Ub6bWcjp7DFF7zwS9CSfA4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 735, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "No", "answer_id": "BS3otxR83SpVgdzJSnA6Du", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 736, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "gZbT4QqPgCtJ4j7aBKUtCw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 737, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "N5hRQtXjyDJpVXx7WGj9ye", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 738, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "No", "answer_id": "mySofjBdhkDwzh4QaLh8g6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 739, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HKdvjJsUSwRVCyHWZP9zZj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 740, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "RxGsy3cK5N4mnnhTawbHMG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 741, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "P89JXCTpsijRFsEk2DcFnn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 742, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "TknfW2T5yMwtjYCije7ABQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 743, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3B44QKjBmyginxXZZzDVix", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 744, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "dw8S49aTxtGWcqSetvh3N6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 745, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BNrXPQ2jcKThVaJrdN7iHj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 746, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "RnqqTTo2Wmia7z7irAiErc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 747, "prompt": "Is there a knife in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "g7GzHtwTyehYMzGNbg6bdq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 748, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "MQUuQxDMBwLW6tdXoYTxXR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 749, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "DMXn2UKT9GFeCnq8VxYu8p", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 750, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "No", "answer_id": "LEJTrCZdCBoHaD8DVNmX3H", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 751, "prompt": "Is there a toothbrush in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Va8vcGQX9joFoKg8xamiMG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 752, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "No", "answer_id": "Tgd8khnn9LMeFCbLGMCCLN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 753, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "C3s3z8BtAA2RH7H6iYKKzZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 754, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JpC4EhouicBfLnZBwQthap", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 755, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "djVg2JNgSdJNSEjiQhZqR6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 756, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "BWQpQD8KkfEYxRqrtY9FuS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 757, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DHx2LYbaLhEMpQytJmSCN4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 758, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "jSpkKfQzpjKayNgwReasx3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 759, "prompt": "Is there a train in the image? Please just answer yes or no.", "text": "No", "answer_id": "3SQeFJG27HB9mDWwpVz2j9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 760, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "6qg2C9oL6BcoKPDCj9z5LW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 761, "prompt": "Is there a stop sign in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "83w2zqCosd9ZiUBedvSzeu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 762, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "C6BCVhSSrmGCEJmiRSJqZG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 763, "prompt": "Is there a toaster in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DdSUuVe3whcwuAzBzznGY6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 764, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "U8kTWbc2FRx82EnXhwTPqG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 765, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "Y8dkNYifsryYMDrczZWinr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 766, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Xe23FjDUENHUo7SBcT4Fwq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 767, "prompt": "Is there a microwave in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WxkeaGZURNnrFkyDZemQFE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 768, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZvLHuCSwin6fu6vwHepaBy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 769, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5GHQP96RHXsAL76WzRJEMc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 770, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "iw5q9aNFLjvgKqt68HmfvP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 771, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "dr5AHo5NuuLRjXjDdKqQzJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 772, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "5n89ZokRJPnAmj6jmnjWNf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 773, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FrPf7xqLwp5CFVBXUxBikT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 774, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "Y3mRDoWUx5JSWnAud5YWow", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 775, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ct9MHABakNEzNK9JuthgUV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 776, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "d5hx6ABodgbsJjnXAHJjj7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 777, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jEzDVfn8bJSmArUoFeg9ZV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 778, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8REjcNJSHCPVaGgMLE6sp2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 779, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "oVLTHFC6ZktXGUZGUkm6f5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 780, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "7YZgk5bAbCAh6A797XVHCo", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 781, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "G2Zviw7CMTJVgCNpJ3GDEs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 782, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "PwXqTfxh9ZHPFuKYKeF6xd", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 783, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "ghmB3HFm7y4sYQyng55REG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 784, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "im8eJ5fbH6JpkG2BohhTQG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 785, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DDwWBw9jCBaLPzjCiGDuW7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 786, "prompt": "Is there an orange in the imange? Please just answer yes or no.", "text": "No", "answer_id": "P6MiJAjPMJiUng2DbhSRSk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 787, "prompt": "Is there a clock in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3rMg2KzqL4XoSNDEgPpiyy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 788, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "dBRecfcvhhAcRujkjGTDvB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 789, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "63sBv8JdiiuDcEBggoYexv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 790, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "hTNgFtjnwJ8RdJxWwVBYJ5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 791, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WP4VAP3hJKbjeGhHspJ9jJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 792, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2jPvacr7mLgfHYtzjZW2GG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 793, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "KJZUKZBYdc25bJYUQgzM58", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 794, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "XeeEpKcwuxzdifc5KxkwPi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 795, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5SWqJKUtzv9wPXcNJ9GjED", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 796, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "RUabXARbDNpBQLB8GzbyXs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 797, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "57mYSxgYYLtgKM9x2R5FKP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 798, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "No", "answer_id": "6iJMqJdoauG2utUhv87aKp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 799, "prompt": "Is there a fire hydrant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eZsNw5EsKCvkY8NpmuvGG5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 800, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "UecqHVysJAccBZN2gvx94X", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 801, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BDrFNNw2dyfoJBm4bGmn5a", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 802, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "S4LcyFANME9AA8FiQZYgqM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 803, "prompt": "Is there a stop sign in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "PyB7BdvmBdsvD3ucEsdDfk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 804, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "YwvK9onvDdBNfBHoSRZGpY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 805, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "62d74FyqSenzjF7YjGQx8K", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 806, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "5X8RN2V3X7j9odraggwJgx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 807, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ta5rK76GYZuDHCbUZRoV46", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 808, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "bDHjvtwVLjrezeziv5Xtwz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 809, "prompt": "Is there a remote in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jYccQYdzt8htZP7yBWjD5h", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 810, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "PXkCNFAQ2SNAxGuZr2uNyC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 811, "prompt": "Is there a boat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FNxsxBToSquLDjychunwpp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 812, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "Y8RG92hRCvxteWGfAD4qzN", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 813, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2fK8QiEpuZKE3NvtKkjPei", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 814, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "c6SFcJ2CsYu4LMcpCwdnhL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 815, "prompt": "Is there a cat in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "f8nX8f9ZFA7frG2UPheqWG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 816, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "kav4GYWmxcVXokHrJ9QnyS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 817, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Ryfyrme6BYrn3o3WrRJiuK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 818, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "hFYR4raoHcPLt28wZB9X7o", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 819, "prompt": "Is there a broccoli in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JgQa4G3fM4EhdhEeU7wpWH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 820, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "ati9s93QYnYTqpjFqLc9yF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 821, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7LwDcp3ZdcmpEUMNTnAeSW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 822, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "V2ucuxTbJfCYnUsQwfHp4v", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 823, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Bhs4xYt3qKqGTn8tC2uJvD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 824, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "nJfquMrCCajsJqxj45AkK3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 825, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hJwNjjKb6zKZZP8qXLrJaE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 826, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "DLEsZifQz2HQWKudCXHKzj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 827, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "oH4vqZTN3qRe789GWuoq77", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 828, "prompt": "Is there a baseball glove in the image? Please just answer yes or no.", "text": "No", "answer_id": "65ZH8CEyfKxtUFf3WRwRhR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 829, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "aaJHiWoR3Ys8juxVQeSMUZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 830, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "TkeYRmcxdRSpDWKpUh8R8B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 831, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "M9xdmwmo7p7zdL4PRbGgr8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 832, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "GefJRX2BLAV8GsYi6VzHgg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 833, "prompt": "Is there a skateboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "AaAyr8MxQtLP4MhGWVvMvU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 834, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "VToxkcKCcEckYugmdevWV6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 835, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Sbj5x3m7qsu7mP5P38so3U", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 836, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Fe8qNRtFWq7FQq4nbDcC8C", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 837, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3jqcvkoUfyk7vXrx7jVXF9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 838, "prompt": "Is there an oven in the imange? Please just answer yes or no.", "text": "No", "answer_id": "m2rt4SKzLHk2MHXFqrs9QJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 839, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FLwsGubGVi6ZHCH335Dp5Z", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 840, "prompt": "Is there a banana in the image? Please just answer yes or no.", "text": "No", "answer_id": "exfVYUxgwjTecrNyfmG4Pe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 841, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JYXeQChzaqU2uapBtwmKUg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 842, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DZcuDFxkXBaZseJverBVDx", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 843, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "fmZYxJDPmsDaVrLex4s6Ga", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 844, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "kTDT2wXeRMJW2D9PgbCkrU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 845, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DW4dDCh2fntqYkafVc9ZNg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 846, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "b45oiUyYBvWi6cRWNZn58S", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 847, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mgxzqZNzakqafWthxjH6Nu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 848, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "hjeMVA5Qyt8q6LcaRWwNsB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 849, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "5w7iMmrDN6EDweNB8EE84Q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 850, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "ioBZvsw5tw2pFTvRBHfbQ5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 851, "prompt": "Is there an umbrella in the imange? Please just answer yes or no.", "text": "Yes", "answer_id": "oPYGdAqwe4Wonrkjff6LNk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 852, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "H7TcpRJZEpFTEEoxD7v6Kq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 853, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "TvjDBFaycAiUZLGz9uyzM6", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 854, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "RCbfeDxn5Z7gCpmXiNh8kT", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 855, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gLxKYpBZ7wq7tXMvK3oeWG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 856, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZHDftfTvPWb44d4R9LjVXX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 857, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "Uqh2wQyAE3kuaFoS9oXYAK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 858, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "4vycFqR3FQ6NkqQXzeeBom", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 859, "prompt": "Is there a keyboard in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jQA5WwTz5xtXjwcPuMsiN5", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 860, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "9xA3rNMC9pNEbiDRHrSyG9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 861, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "TP7NRycSPdHk2HuxuaDKub", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 862, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "LZ3knSvUnyYXRi6yLSjogk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 863, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "No", "answer_id": "5gwVVZTTQaDyF5EQH5XPpv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 864, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "YXev2muDzbddkDQLAKnFjF", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 865, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jSmuQkLXoqVoeH8SthWEbZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 866, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "M7Tbhg37Z3vW2YDghgRp7q", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 867, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8FDpXiTtLqnvcGEN6oziY4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 868, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "QSFdcTNsWkvZUiyaqyMNr2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 869, "prompt": "Is there a cell phone in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "WpxUsScmHFaNaGXP4YLYdq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 870, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "HJHrDstWwj979L66TYBMGy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 871, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2LHFWktvJKZPKCp2YVY9UR", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 872, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "gZPDzihy3tufsV9nXHKSRf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 873, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "GfDcnyTcSvqYvy84H7N6tt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 874, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "L5BwAxKazd5UdEswuX7gvS", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 875, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "gDoZNX79BPdcGmPDEJoEwQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 876, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "No", "answer_id": "E3wqTqCAwMqcrngVQFSvMw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 877, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2VeKTZAn7rt9Di9jK9pVRm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 878, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "bmbM9nwFbjSW2GLbzQ8td9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 879, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "T6qpkzL3qNdtqxwcfYw6Tr", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 880, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "JuKehYonKqK8bccrHoB2h2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 881, "prompt": "Is there a couch in the image? Please just answer yes or no.", "text": "No", "answer_id": "SSdaEFXJyKTUGuz9jMnQ4X", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 882, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "XJJNNEvvAstmpTUMV6XY2j", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 883, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RyVAyB6qzE2txfGgmA7GhZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 884, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZmrHSvzhvXFzifNbFrb54F", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 885, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "9FVbMUtt9KYmEpzvnKygMf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 886, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "Kh3i3aXLNR9NPz7mpkHrna", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 887, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "nMdY8PuMUhH3CcqmDsDN8A", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 888, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "ipj6ACna6gywUMtLcm5EGc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 889, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6nbMvPmuwKATLTHZobRxeh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 890, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "jFQjidQXjhdaPmsHTS2kx9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 891, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "3TkKC7fERfXUND7BUg7BBj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 892, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "M4w7zagqacowZqPe47vQSW", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 893, "prompt": "Is there a toilet in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "8eEV7LSiaatZJd3nRFjy6L", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 894, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "No", "answer_id": "mFMCSKVeULD82M34bcXsVt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 895, "prompt": "Is there a dog in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "95QLKvxyY5GEKcRGryf7mz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 896, "prompt": "Is there a frisbee in the image? Please just answer yes or no.", "text": "No", "answer_id": "ftpa8JcV57nDen28NZNGdV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 897, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mFVa8DU6iMwwq2Q3gbcWBn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 898, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "No", "answer_id": "fwQKrW6W2LBFcGaKmJmmnm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 899, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6Vu3mSCTePXaKzNNC8sbgz", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 900, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "neknwsAqoWqYFSu2zcbKGX", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 901, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7CajPrYjZbjKeQUNhX4mgD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 902, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "No", "answer_id": "ijZbGBJLVBBKaLMywngi3R", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 903, "prompt": "Is there a bird in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "XTwuEvqykz5MPmrpVQmpAZ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 904, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "XXE9j4vmXevwPYin2C3RYj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 905, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FVZErpBaY9ZZTVKviJj35P", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 906, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "5qWYe7er7FCJEH3Wo7EMxi", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 907, "prompt": "Is there a teddy bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RFFbe3JXZD5hzmMSCjcAYG", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 908, "prompt": "Is there a bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ge6yfavnq4zrkAnQhdQH64", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 909, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Nvve9kErmRpZaC9YtWiAa9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 910, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "6rjVwrRaEXJu7TWo6odiMs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 911, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Mpn2e8irqL8yMrnyi8sQyc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 912, "prompt": "Is there a tv in the image? Please just answer yes or no.", "text": "No", "answer_id": "5Xveo3v7d7dPBxUdVw7LBc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 913, "prompt": "Is there a sink in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RVRLsv5jA3b8j2hQzzi6Yk", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 914, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "bvjqgX4Trxhj8UeCpnCicA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 915, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DdoY4bo2kA8SJjNnuZHj2v", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 916, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "WpbdSqZD9PS2oPBKyAsubC", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 917, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "n7S57aXRK7vHsZKHLAbDgP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 918, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "aUBQuMvpKTyQhWvBtTVptY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 919, "prompt": "Is there a broccoli in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "kwtmJgaidrnGowY4kekzDQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 920, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "No", "answer_id": "L4Hx6AJBNRec8RiWmZW8v8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 921, "prompt": "Is there a carrot in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "kHEtbUGK8zXcYXjgKmGUgj", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 922, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "MjViQzweYxLPTbHWNE66sJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 923, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "No", "answer_id": "JrUGaXVMaKhFqWfGNmUU9M", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 924, "prompt": "Is there a book in the image? Please just answer yes or no.", "text": "No", "answer_id": "DeMzp23Niqhd9rsbFyVWip", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 925, "prompt": "Is there a traffic light in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "eHFTH9MFBvM4kT9Yzfdsf2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 926, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "Aw2XLxtdyT7rwiqLnhTbHh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 927, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "F7ALaZ2MqAW8CsgJq94XjJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 928, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "KXbQek3x44bRJSyxLBjFkM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 929, "prompt": "Is there a fire hydrant in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "2uu6W6pLKFBMZEmiEGGv2E", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 930, "prompt": "Is there a stop sign in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Gk7i2PQHiFsiN6BUg3BQUc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 931, "prompt": "Is there a vase in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "5N5H24jtaofpoc6p7NmYSu", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 932, "prompt": "Is there a potted plant in the image? Please just answer yes or no.", "text": "No", "answer_id": "kU9PyBQFiAq7pWN8QsowY3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 933, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "RDiHzABzeGfE875bhFEy28", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 934, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "DzyBQ6tnYQzwVHhV24acyA", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 935, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "KpfaPRDwDPQPDKpaFMy3UV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 936, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "LeG8CKkLi9pga5mjnquZWb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 937, "prompt": "Is there a pizza in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FNCeRCWuGTqVtu7rFh9QN9", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 938, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "9nZRCvCiL3U4KH2QsCLG3E", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 939, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ZaMFtE8eJtnV5kUiWjB6PQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 940, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "mRDpFwjeoDJzJASbzf68Ff", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 941, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6iRK8yEdGBcLVunhc3gDL3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 942, "prompt": "Is there a chair in the image? Please just answer yes or no.", "text": "No", "answer_id": "Nzt82AmYRLoCcc3zwkFxJK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 943, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "i84vrpurjMAsQUc6VfhyjY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 944, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "Yec9ZUmEpZ5WhvsuXmeWnV", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 945, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "MR9DuyeaytTyfhnX9fqA8a", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 946, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "No", "answer_id": "EVWgAYUBRAUntzaJJfFMrL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 947, "prompt": "Is there a cake in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "nzbGyAAafoJq8QrZ5Nn3US", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 948, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "MLDM5tJypcaTgL68SXDooU", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 949, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ScJksRP3MavKZPEtijsWso", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 950, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "eQSajKLmDenkbS7NmRBiNe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 951, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "RUyhZsKPhvVqRmhCgr3sdw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 952, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "KM3wz8GgWFkLHjZqCRRctt", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 953, "prompt": "Is there a bottle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "ibtEAVRk85jrYBeMXKwfpM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 954, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "CrDseQjSbuPmqpikjr3PBc", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 955, "prompt": "Is there a bowl in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UQpWgQTTWbv5S2AgSFyK2L", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 956, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "E6DAKrNTMFX8TLAxWocnH2", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 957, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "EJ8hd8t7tiotVZ28tBupiJ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 958, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "XDStHtUS7LHryfRWTwRf5B", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 959, "prompt": "Is there a laptop in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jvAXxWCEUBMohbQAA6VFZm", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 960, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "AfWVkfTdqiQAtdMHmR3wMf", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 961, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "mHR4AouNx3jGEN7bfkEue3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 962, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "LqyaPSL9uxA3RqgJgZcf8u", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 963, "prompt": "Is there a sports ball in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "6ZsnhdgPbLuFmMf9ecG4QP", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 964, "prompt": "Is there a tennis racket in the image? Please just answer yes or no.", "text": "No", "answer_id": "8rMjTjBVzwxtpvMtywJ6pL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 965, "prompt": "Is there an umbrella in the imange? Please just answer yes or no.", "text": "No", "answer_id": "YNgmuvu3qY45fvwAgznhr4", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 966, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "gynrH2yeb5RrbwoLQd5FKg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 967, "prompt": "Is there a teddy bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "UTHpsRDmxBKrUdJ4AkujBg", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 968, "prompt": "Is there a bear in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "DfVw4RYwCWHpDTVyPbr3f3", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 969, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "RapCTzbhoyei9gh78Mijgb", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 970, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "4Bw5qkBaZqe7m335m5E6zM", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 971, "prompt": "Is there a bed in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "JffHu88JdkvnpRnQgZWR6U", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 972, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "No", "answer_id": "W93AwgFiTszUckdrJCoMYB", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 973, "prompt": "Is there a motorcycle in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "BkUtiJsQEiQgdg7iWGoeUp", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 974, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "dCtXXNVfer9sorBgK3zeGs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 975, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "FkoxjGAJ5D6pYXUtCinijh", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 976, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "No", "answer_id": "mAVeYCwPiRxQHmdiK7fapQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 977, "prompt": "Is there a bicycle in the image? Please just answer yes or no.", "text": "No", "answer_id": "YAQZeCucvsRe264uHsgExD", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 978, "prompt": "Is there a bus in the image? Please just answer yes or no.", "text": "No", "answer_id": "5vg6BqiUPpdvTfhAF3qtoL", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 979, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "oGPr5WrPbRj3E5u2mz3UQw", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 980, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "oFigGBT86FzvDDw5XhpPWs", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 981, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "haUD6yoLCBMutcbNgmWA78", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 982, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "MW7w55zwzc3rbfLqH5kHNQ", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 983, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "jHnVYdGVWbyYKchuDyPLnY", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 984, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "HYSGMu97F5guZoB7ooHZJe", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 985, "prompt": "Is there a donut in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "Kd8hjfmrAzKQd66iyjZL9A", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 986, "prompt": "Is there a spoon in the image? Please just answer yes or no.", "text": "No", "answer_id": "5UiEjHTuPNVP2n5rYGuxot", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 987, "prompt": "Is there a cake in the image? Please just answer yes or no.", "text": "No", "answer_id": "ZYinVXjZyLEsciBPr8m5uy", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 988, "prompt": "Is there a cup in the image? Please just answer yes or no.", "text": "No", "answer_id": "eVc7zV3jMar7hZ367H3iRn", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 989, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "No", "answer_id": "faJ3VQ47WREbSoKXk5yEnH", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 990, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "No", "answer_id": "C9J9xanoSFVVVY33cRL7cv", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 991, "prompt": "Is there a backpack in the image? Please just answer yes or no.", "text": "No", "answer_id": "VVq9nSfT68jgR76sR9o7pq", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 992, "prompt": "Is there a handbag in the image? Please just answer yes or no.", "text": "No", "answer_id": "LmADaXLKNdgLsTsmeevUm8", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 993, "prompt": "Is there a person in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "VcR45DeXKzQckVw8k59edK", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 994, "prompt": "Is there a dining table in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "m9b9XiDd2NVYhsdXd4YUnE", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 995, "prompt": "Is there a car in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "c6c5LvryVHEYM7pi8DVPC7", "model_id": "llava-v1.5-7b", "metadata": {}}
+{"question_id": 996, "prompt": "Is there a truck in the image? Please just answer yes or no.", "text": "Yes", "answer_id": "7mqBqsZUGiU6kvLkR3kkLt", "model_id": "llava-v1.5-7b", "metadata": {}}

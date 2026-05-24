@@ -1,0 +1,290 @@
+{
+  "0": {
+    "value_norm": 0.2197265625,
+    "p_vis": 0.251953125,
+    "p_sys": 0.0018310546875,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.1875,
+    "did_intervene": false
+  },
+  "1": {
+    "value_norm": 0.58984375,
+    "p_vis": 0.25390625,
+    "p_sys": 0.0177001953125,
+    "imbalance": 0.0,
+    "cos_vis_sys": -0.0908203125,
+    "did_intervene": false
+  },
+  "2": {
+    "value_norm": 0.65234375,
+    "p_vis": 0.1953125,
+    "p_sys": 0.07763671875,
+    "imbalance": 0.0,
+    "cos_vis_sys": -0.162109375,
+    "did_intervene": false
+  },
+  "3": {
+    "value_norm": 0.8203125,
+    "p_vis": 0.11474609375,
+    "p_sys": 0.2099609375,
+    "imbalance": 0.29296875,
+    "cos_vis_sys": -0.25,
+    "did_intervene": true
+  },
+  "4": {
+    "value_norm": 0.9921875,
+    "p_vis": 0.1103515625,
+    "p_sys": 0.1748046875,
+    "imbalance": 0.2255859375,
+    "cos_vis_sys": -0.177734375,
+    "did_intervene": true
+  },
+  "5": {
+    "value_norm": 1.078125,
+    "p_vis": 0.09521484375,
+    "p_sys": 0.1181640625,
+    "imbalance": 0.10791015625,
+    "cos_vis_sys": -0.322265625,
+    "did_intervene": true
+  },
+  "6": {
+    "value_norm": 1.515625,
+    "p_vis": 0.07861328125,
+    "p_sys": 0.03369140625,
+    "imbalance": 0.0,
+    "cos_vis_sys": -0.2392578125,
+    "did_intervene": false
+  },
+  "7": {
+    "value_norm": 1.890625,
+    "p_vis": 0.03369140625,
+    "p_sys": 0.6953125,
+    "imbalance": 0.90234375,
+    "cos_vis_sys": -0.43359375,
+    "did_intervene": true
+  },
+  "8": {
+    "value_norm": 2.515625,
+    "p_vis": 0.056640625,
+    "p_sys": 0.6796875,
+    "imbalance": 0.8515625,
+    "cos_vis_sys": -0.470703125,
+    "did_intervene": true
+  },
+  "9": {
+    "value_norm": 2.609375,
+    "p_vis": 0.032958984375,
+    "p_sys": 0.73828125,
+    "imbalance": 0.91796875,
+    "cos_vis_sys": -0.42578125,
+    "did_intervene": true
+  },
+  "10": {
+    "value_norm": 3.796875,
+    "p_vis": 0.03466796875,
+    "p_sys": 0.69921875,
+    "imbalance": 0.90234375,
+    "cos_vis_sys": -0.43359375,
+    "did_intervene": true
+  },
+  "11": {
+    "value_norm": 3.21875,
+    "p_vis": 0.03662109375,
+    "p_sys": 0.65625,
+    "imbalance": 0.8984375,
+    "cos_vis_sys": -0.375,
+    "did_intervene": true
+  },
+  "12": {
+    "value_norm": 3.6875,
+    "p_vis": 0.05810546875,
+    "p_sys": 0.58203125,
+    "imbalance": 0.81640625,
+    "cos_vis_sys": -0.3515625,
+    "did_intervene": true
+  },
+  "13": {
+    "value_norm": 3.46875,
+    "p_vis": 0.10400390625,
+    "p_sys": 0.60546875,
+    "imbalance": 0.703125,
+    "cos_vis_sys": -0.263671875,
+    "did_intervene": true
+  },
+  "14": {
+    "value_norm": 4.75,
+    "p_vis": 0.08349609375,
+    "p_sys": 0.48828125,
+    "imbalance": 0.70703125,
+    "cos_vis_sys": -0.298828125,
+    "did_intervene": true
+  },
+  "15": {
+    "value_norm": 4.9375,
+    "p_vis": 0.12158203125,
+    "p_sys": 0.486328125,
+    "imbalance": 0.59765625,
+    "cos_vis_sys": -0.130859375,
+    "did_intervene": true
+  },
+  "16": {
+    "value_norm": 6.3125,
+    "p_vis": 0.138671875,
+    "p_sys": 0.51171875,
+    "imbalance": 0.57421875,
+    "cos_vis_sys": -0.1591796875,
+    "did_intervene": true
+  },
+  "17": {
+    "value_norm": 5.5625,
+    "p_vis": 0.2314453125,
+    "p_sys": 0.3203125,
+    "imbalance": 0.1611328125,
+    "cos_vis_sys": 0.326171875,
+    "did_intervene": true
+  },
+  "18": {
+    "value_norm": 6.6875,
+    "p_vis": 0.306640625,
+    "p_sys": 0.28125,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.388671875,
+    "did_intervene": false
+  },
+  "19": {
+    "value_norm": 7.90625,
+    "p_vis": 0.291015625,
+    "p_sys": 0.359375,
+    "imbalance": 0.10546875,
+    "cos_vis_sys": 0.6875,
+    "did_intervene": true
+  },
+  "20": {
+    "value_norm": 7.65625,
+    "p_vis": 0.302734375,
+    "p_sys": 0.37890625,
+    "imbalance": 0.1123046875,
+    "cos_vis_sys": 0.7265625,
+    "did_intervene": true
+  },
+  "21": {
+    "value_norm": 9.125,
+    "p_vis": 0.353515625,
+    "p_sys": 0.322265625,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.49609375,
+    "did_intervene": false
+  },
+  "22": {
+    "value_norm": 10.25,
+    "p_vis": 0.291015625,
+    "p_sys": 0.349609375,
+    "imbalance": 0.09130859375,
+    "cos_vis_sys": 0.69921875,
+    "did_intervene": true
+  },
+  "23": {
+    "value_norm": 12.4375,
+    "p_vis": 0.345703125,
+    "p_sys": 0.322265625,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.5703125,
+    "did_intervene": false
+  },
+  "24": {
+    "value_norm": 17.5,
+    "p_vis": 0.412109375,
+    "p_sys": 0.396484375,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.58203125,
+    "did_intervene": false
+  },
+  "25": {
+    "value_norm": 14.625,
+    "p_vis": 0.37109375,
+    "p_sys": 0.427734375,
+    "imbalance": 0.0712890625,
+    "cos_vis_sys": 0.6328125,
+    "did_intervene": true
+  },
+  "26": {
+    "value_norm": 19.875,
+    "p_vis": 0.427734375,
+    "p_sys": 0.427734375,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.435546875,
+    "did_intervene": false
+  },
+  "27": {
+    "value_norm": 19.625,
+    "p_vis": 0.404296875,
+    "p_sys": 0.40625,
+    "imbalance": 0.002410888671875,
+    "cos_vis_sys": 0.53515625,
+    "did_intervene": true
+  },
+  "28": {
+    "value_norm": 22.0,
+    "p_vis": 0.376953125,
+    "p_sys": 0.349609375,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.58984375,
+    "did_intervene": false
+  },
+  "29": {
+    "value_norm": 34.5,
+    "p_vis": 0.431640625,
+    "p_sys": 0.419921875,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.64453125,
+    "did_intervene": false
+  },
+  "30": {
+    "value_norm": 34.0,
+    "p_vis": 0.38671875,
+    "p_sys": 0.41015625,
+    "imbalance": 0.0294189453125,
+    "cos_vis_sys": 0.67578125,
+    "did_intervene": true
+  },
+  "31": {
+    "value_norm": 40.75,
+    "p_vis": 0.4296875,
+    "p_sys": 0.353515625,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.357421875,
+    "did_intervene": false
+  },
+  "32": {
+    "value_norm": 48.5,
+    "p_vis": 0.42578125,
+    "p_sys": 0.369140625,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.56640625,
+    "did_intervene": false
+  },
+  "33": {
+    "value_norm": 72.5,
+    "p_vis": 0.486328125,
+    "p_sys": 0.34765625,
+    "imbalance": 0.0,
+    "cos_vis_sys": 0.291015625,
+    "did_intervene": false
+  },
+  "34": {
+    "value_norm": 65.0,
+    "p_vis": 0.369140625,
+    "p_sys": 0.375,
+    "imbalance": 0.00787353515625,
+    "cos_vis_sys": 0.341796875,
+    "did_intervene": true
+  },
+  "35": {
+    "value_norm": 42.0,
+    "p_vis": 0.08740234375,
+    "p_sys": 0.287109375,
+    "imbalance": 0.53125,
+    "cos_vis_sys": -0.06396484375,
+    "did_intervene": true
+  }
+}

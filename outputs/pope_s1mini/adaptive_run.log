@@ -1,0 +1,26 @@
+Zone boundaries: A=L0-6, B=L7-16, C=L17-30, D=L31-35
+Zone config: [('A', 0, 6, 'skip', 'hard'), ('B', 7, 16, 'rotate', 'soft'), ('C', 17, 30, 'project', 'soft'), ('D', 31, 35, 'skip', 'hard')]
+Loading processor from /root/code/Intern-S1-mini...
+If tokenization with SMILES formula is of necessity, please 'pip install RDKit' for better tokenization quality.
+Loading model on CUDA:2...
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.01s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.08it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.13it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.47it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.30it/s]
+Attention implementation set to eager.
+Adaptive AGVP: 36 layers patched (A=L0-6:skip(hard), B=L7-16:rotate(soft), C=L17-30:project(soft), D=L31-35:skip(hard))
+  0%|          | 0/3000 [00:00<?, ?it/s]Keyword argument `enable_thinking` is not a valid argument for this processor and will be ignored.
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 1/3000 [00:04<3:26:32,  4.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 2/3000 [00:07<2:59:38,  3.60s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 3/3000 [00:10<2:51:00,  3.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 4/3000 [00:13<2:46:28,  3.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 5/3000 [00:16<2:43:51,  3.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 6/3000 [00:20<2:42:42,  3.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 7/3000 [00:24<2:54:53,  3.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 8/3000 [00:28<3:03:17,  3.68s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 9/3000 [00:32<3:08:28,  3.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 10/3000 [00:36<3:12:04,  3.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 11/3000 [00:40<3:14:32,  3.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 12/3000 [00:44<3:16:18,  3.94s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 13/3000 [00:47<3:04:58,  3.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 14/3000 [00:50<2:56:58,  3.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+  0%|          | 15/3000 [00:53<2:51:37,  3.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+/tmp/tmp4knez7d_: line 3: 130135 Killed                  python -u visaug/inference/infer_pope_s1mini_adaptive.py --gpu-id 2 --no-think --answers-file ./outputs/pope_s1mini/res_adaptive_random.jsonl

@@ -1,0 +1,178 @@
+{
+  "method_name": "agvr",
+  "method_file": "outputs/pope_s1mini/res_agvr_random.jsonl",
+  "baseline_file": "outputs/pope_s1mini/res_baseline_random.jsonl",
+  "top_k": 20,
+  "method_overall": {
+    "accuracy": 0.9197,
+    "precision": 0.9787,
+    "recall": 0.858,
+    "f1": 0.9144,
+    "TP": 1287,
+    "TN": 1472,
+    "FP": 28,
+    "FN": 213
+  },
+  "bad_cases": [
+    {
+      "question_id": 23,
+      "image": "COCO_val2014_000000211674.jpg",
+      "question": "Is there a car in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 35,
+      "image": "COCO_val2014_000000283412.jpg",
+      "question": "Is there a bed in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 141,
+      "image": "COCO_val2014_000000542145.jpg",
+      "question": "Is there a toothbrush in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 167,
+      "image": "COCO_val2014_000000140583.jpg",
+      "question": "Is there a cow in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 177,
+      "image": "COCO_val2014_000000288639.jpg",
+      "question": "Is there a toothbrush in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 179,
+      "image": "COCO_val2014_000000288639.jpg",
+      "question": "Is there a bottle in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 229,
+      "image": "COCO_val2014_000000031773.jpg",
+      "question": "Is there a tv in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 241,
+      "image": "COCO_val2014_000000574057.jpg",
+      "question": "Is there a car in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 259,
+      "image": "COCO_val2014_000000485564.jpg",
+      "question": "Is there a car in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 287,
+      "image": "COCO_val2014_000000329717.jpg",
+      "question": "Is there a handbag in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 323,
+      "image": "COCO_val2014_000000538236.jpg",
+      "question": "Is there a handbag in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 385,
+      "image": "COCO_val2014_000000350898.jpg",
+      "question": "Is there a spoon in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 413,
+      "image": "COCO_val2014_000000239347.jpg",
+      "question": "Is there a tie in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 443,
+      "image": "COCO_val2014_000000231589.jpg",
+      "question": "Is there a couch in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 533,
+      "image": "COCO_val2014_000000427113.jpg",
+      "question": "Is there a clock in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 617,
+      "image": "COCO_val2014_000000580294.jpg",
+      "question": "Is there a spoon in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 659,
+      "image": "COCO_val2014_000000204360.jpg",
+      "question": "Is there a backpack in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 705,
+      "image": "COCO_val2014_000000032610.jpg",
+      "question": "Is there a bench in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No.",
+      "label": "yes"
+    },
+    {
+      "question_id": 843,
+      "image": "COCO_val2014_000000443240.jpg",
+      "question": "Is there a chair in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    },
+    {
+      "question_id": 1027,
+      "image": "COCO_val2014_000000153300.jpg",
+      "question": "Is there a spoon in the image? Please just answer yes or no.",
+      "baseline_answer": "Yes.",
+      "method_answer": "No",
+      "label": "yes"
+    }
+  ]
+}
