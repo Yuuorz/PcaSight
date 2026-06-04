@@ -19,7 +19,7 @@ from llava.model.builder import load_pretrained_model
 from llava.utils import disable_torch_init
 from llava.mm_utils import tokenizer_image_token, get_model_name_from_path, KeywordsStoppingCriteria, process_images
 
-from AGVPAdapter import AGVPAdapter
+from PCAPullAdapter import PCAPullAdapter
 
 def split_list(lst, n):
     chunk_size = math.ceil(len(lst) / n)
@@ -45,21 +45,28 @@ if __name__ == "__main__":
 
     disable_torch_init()
     tokenizer, model, image_processor, context_len = load_pretrained_model(args.model_path, None, "llava-v1.5-7b")
-
+    
+    # === 修复 1：全局双重配置锁死，确保自回归 generate 不会退回 FlashAttention ===
+    model.config._attn_implementation = "eager"
+    if hasattr(model, 'model'):
+        model.model.config._attn_implementation = "eager"
+    
     print(f"=== Injecting PCA Subspace Adapter into LLaVA ===")
     print(f"Layers: {args.start_layer}-{args.end_layer} | Components: {args.pca_k} | Scale: {args.scale}")
 
     for i, layer in enumerate(model.model.layers):
         if args.start_layer <= i <= args.end_layer:
-            # 继承你之前的强弱分区配置
             zone_weight = 0.5 if i <= 8 else 1.0
             
-            adap = AGVPAdapter(layer.self_attn.config)
+            adap = PCAPullAdapter(layer.self_attn.config)
             adap.load_state_dict(layer.self_attn.state_dict())
-            adap._agvp_mode = "subspace_pca"
+
             adap._pca_k = args.pca_k
-            adap._pca_scale = args.scale
+            adap._scale = args.scale  # 从 _pca_scale 修正为 _scale
             adap._zone_weight = zone_weight
+            
+            # 记录层索引，方便 Debug 追踪
+            adap.layer_idx = i
             
             adap = adap.half().cuda()
             layer.self_attn = adap
