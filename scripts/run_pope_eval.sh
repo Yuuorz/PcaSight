@@ -1,18 +1,10 @@
 #!/bin/bash
+# POPE evaluation (yes/no QA) — uses eval_pope.py
 
-# OPOPE evaluation (requires instances_val2014.json)
-# Download: wget http://images.cocodataset.org/annotations/instances_val2014.json
+python visaug/inference/metrics/eval_pope.py \
+    --annotation-file data/pope/coco_pope_random.json \
+    --result-file outputs/llava/pope/res_k3_scale0.1_UNCENTERED.jsonl
 
-INSTANCES=/root/code/ClearSight/data/coco/annotations/instances_val2014.json
-
-python visaug/inference/metrics/eval_opope.py \
-    --cap-file outputs/llava/opope/baseline.jsonl \
-    --instances-path $INSTANCES
-
-python visaug/inference/metrics/eval_opope.py \
-    --cap-file outputs/llava/opope/k6_scale0.2.jsonl \
-    --instances-path $INSTANCES
-
-python visaug/inference/metrics/eval_opope.py \
-    --cap-file outputs/s1mini/opope/baseline.jsonl \
-    --instances-path $INSTANCES
+python visaug/inference/metrics/eval_pope.py \
+    --annotation-file data/pope/coco_pope_random.json \
+    --result-file outputs/s1mini/pope/res_s1_k2_scale0.2_UNCENTERED.jsonl
